@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yosef Haylemiciale</h1>
 
-<a href="#" style="text-align:center" ><img src="https://github.com/Honda99/Profile-Data/blob/main/oie_ojLOLGOxIRdt.gif" alt=""> </a>
+<a href="#" style="width:100%; display:flex; align-items:center; justify-content:center" ><img src="https://github.com/Honda99/Profile-Data/blob/main/oie_ojLOLGOxIRdt.gif" alt=""> </a>
 
 <h3 align="center">I'm Yosef Haylemiciale, I have experience with C# and Javascript and I am student at Microverse. Passionate to contribute open-source projects and make cool products.</h3>
 

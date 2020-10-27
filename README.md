@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akhil G Krishnan</h1>
 <h3 align="center">I Yosef Haylemiciale, I have experience with C# and Javascript and I am student at Microverse. Passionate to contribute open-source projects and make cool products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
-
-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
+- 🔭 I’m currently student at Microverse
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
 
-- 📫 How to reach me **info@akhilgkrishnan.me**
+- 📫 How to reach me **yosefhayle14@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

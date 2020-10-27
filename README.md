@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/adamalston/adamalston/raw/master/)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 
